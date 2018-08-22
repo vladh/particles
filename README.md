@@ -1,5 +1,7 @@
 # Particle System
 
+![Particle System](https://vladh.net/static/attractors.png)
+
 Vlad-Ștefan Harbuz
 
 November 2015
