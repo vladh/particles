@@ -14,6 +14,8 @@ brew install glfw glew glm freeglut freetype sfml
 
 Change Makefile with the appropriate freetype path.
 
+Run it with `./bin/particles`.
+
 ## Libraries
 
 * GLEW
